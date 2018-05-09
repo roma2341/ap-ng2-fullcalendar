@@ -1,7 +1,7 @@
 {
-  "name": "ap-angular2-fullcalendar",
+  "name": "zigzag-angular2-fullcalendar",
   "version": "1.3.7",
-  "description": "Angular2 component for FullCalendar",
+  "description": "Angular6 component for FullCalendar",
   "main": "index.js",
   "scripts": {
     "build": "rm -rf dist/ && ngc build -p ./tsconfig.json",
@@ -16,7 +16,8 @@
     "angular",
     "calendar",
     "angular 4",
-    "angular 2"
+    "angular 2",
+    "angular 6"
   ],
   "author": "Luciano Bertenasco <lbertenasco@gmail.com> ()",
   "license": "MIT",
